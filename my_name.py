@@ -6,3 +6,4 @@ name="ritik Tyagi"
 my_brother="rishabh tyagi"
 my_hobby="keep_coding"
 my_age=21
+print("Hello world")
